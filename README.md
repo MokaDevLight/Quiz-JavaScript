@@ -24,6 +24,10 @@ A JavaScript Quiz with multiple choice questions, a timer, and high scores!
 - There is also a timer to answer questions at the right time
 - In one page you can see the best points earned
 
+## then :
+
+You can view the project by opening the file .html
+
 ## Contact
 
 Created by Moka.
