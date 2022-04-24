@@ -20,11 +20,9 @@ A JavaScript Quiz with multiple choice questions, a timer, and high scores!
 
 ## Features :
 
-*There is a button to start the quiz
-*There is also a timer to answer questions at the right time
-\*In one page you can see the best points earned
-
--
+- There is a button to start the quiz
+- There is also a timer to answer questions at the right time
+- In one page you can see the best points earned
 
 ## Contact
 
